@@ -23,13 +23,13 @@ sudo python3 -m pip install virtualenv
 virtualenv env
 ```
 
-Chage line 2 of env/bin/activate
+Add line 2 of env/bin/activate
 ```
 OLD_PYTHONPATH=$PYTHONPATH
 export PYTHONPATH="/usr/local/lib/python3.6/dist-packages:/usr/lib/python3/dist-packages:/usr/lib/python3.6/dist-packages"
 ```
 
-Chage line 2 of env/bin/postdeactivate
+Add line 2 of env/bin/postdeactivate
 ```
 export PYTHONPATH=$OLD_PYTHONPATH
 unset OLD_PYTHONPATH
