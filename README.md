@@ -24,3 +24,7 @@ sudo pip install git+https://github.com/scikit-learn/scikit-learn.git
 ```
 sudo apt-get install python-scipy
 ```
+
+install opencv & tensorflow
+
+https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f
