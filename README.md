@@ -12,7 +12,9 @@ sudo apt update && sudo apt upgrade
 sudo -H pip install -U jetson-stats
 ```
 
-## BUILD OPENCV & INSTALL TENSORFLOW: https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f
+## BUILD OPENCV & INSTALL TENSORFLOW: https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f 
+
+https://www.jetsonhacks.com/2018/11/08/build-opencv-3-4-on-nvidia-jetson-agx-xavier-developer-kit/
 
 ```
 sudo apt install python3-pip
