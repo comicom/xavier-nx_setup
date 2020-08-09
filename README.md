@@ -76,9 +76,9 @@ $ pip3 install --extra-index-url https://developer.download.nvidia.com/compute/r
 
 e.g
 ### version 2
-pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v44 tensorflow==2.1.0+nv20.04
+pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v44 tensorflow==2.1.0+nv20.4 --user
 ### version 1
-pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v44 tensorflow==1.51.2+nv20.04
+pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v44 tensorflow==1.51.2+nv20.4 --user
 
 ```
 
