@@ -28,3 +28,7 @@ sudo apt-get install python-scipy
 install opencv & tensorflow
 
 https://qiita.com/misoragod/items/c36c1ffd682b2a5b6e6f
+
+others
+
+http://www.neko.ne.jp/~freewing/raspberry_pi/nvidia_jetson_xavier_nx_2020_initialize/
