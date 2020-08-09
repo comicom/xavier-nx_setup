@@ -90,8 +90,8 @@ sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-setu
 darknet setup
 ```
 #nvcc setup
-export
-export
+export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 ```
 
 install sklearn
