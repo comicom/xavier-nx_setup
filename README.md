@@ -120,3 +120,7 @@ sudo apt-get install python-scipy
 others
 
 http://www.neko.ne.jp/~freewing/raspberry_pi/nvidia_jetson_xavier_nx_2020_initialize/
+
+## GPU monitoring ##
+
+https://www.jetsonhacks.com/2018/05/29/gpu-activity-monitor-nvidia-jetson-tx-dev-kit/
