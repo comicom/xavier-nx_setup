@@ -105,6 +105,14 @@ sudo pip install cython
 
 sudo pip install git+https://github.com/scikit-learn/scikit-learn.git
 ```
+module Error: No module named 'sklearn.utils.linear_assignment_'
+
+from sklearn.utils.linear_assignment_ import linear_assignment
+
+->
+
+from scipy.optimize import linear_sum_assignment as linear_assignment
+
 ```
 sudo apt-get install python-scipy
 ```
