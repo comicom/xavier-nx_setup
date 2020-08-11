@@ -121,6 +121,16 @@ others
 
 http://www.neko.ne.jp/~freewing/raspberry_pi/nvidia_jetson_xavier_nx_2020_initialize/
 
+## SORT SETUP ##
+
+```
+sudo apt-get install python-matplotlib python-numpy python-pil python-scipy
+sudo apt-get install build-essential cython
+sudo apt-get install python-skimage
+
+sudo apt-get install python3-module-filterpy
+```
+
 ## GPU monitoring ##
 
 https://www.jetsonhacks.com/2018/05/29/gpu-activity-monitor-nvidia-jetson-tx-dev-kit/
