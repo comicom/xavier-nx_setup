@@ -1,0 +1,3 @@
+/home/pi/commDemo/rs232/CMakeFiles/rebuild_cache.dir
+/home/pi/commDemo/rs232/CMakeFiles/app.dir
+/home/pi/commDemo/rs232/CMakeFiles/edit_cache.dir

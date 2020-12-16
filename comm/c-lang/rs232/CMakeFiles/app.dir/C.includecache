@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/commDemo/rs232/demo_main.c
+stdlib.h
+-
+stdio.h
+-
+Windows.h
+-
+unistd.h
+-
+rs232.h
+/home/pi/commDemo/rs232/rs232.h
+
+/home/pi/commDemo/rs232/rs232.h
+stdio.h
+-
+string.h
+-
+termios.h
+-
+sys/ioctl.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+limits.h
+-
+sys/file.h
+-
+errno.h
+-
+windows.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/app.dir/demo_main.c.o CMakeFiles/app.dir/rs232.c.o  -o app 
